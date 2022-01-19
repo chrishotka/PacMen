@@ -1,2 +1,4 @@
-# PacMen
-An exercise where you create PacMen and bounce them around the screen.
+# pacmen
+Factory for making PacMen that bounce off the walls
+
+<img src="PacMan1.png">
